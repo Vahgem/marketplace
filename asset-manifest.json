@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/marketplace/static/css/main.8d861964.chunk.css",
+    "main.js": "/marketplace/static/js/main.3ae81af2.chunk.js",
+    "main.js.map": "/marketplace/static/js/main.3ae81af2.chunk.js.map",
+    "runtime-main.js": "/marketplace/static/js/runtime-main.ffd1a2d6.js",
+    "runtime-main.js.map": "/marketplace/static/js/runtime-main.ffd1a2d6.js.map",
+    "static/css/2.bb1f7776.chunk.css": "/marketplace/static/css/2.bb1f7776.chunk.css",
+    "static/js/2.cc444c2b.chunk.js": "/marketplace/static/js/2.cc444c2b.chunk.js",
+    "static/js/2.cc444c2b.chunk.js.map": "/marketplace/static/js/2.cc444c2b.chunk.js.map",
+    "static/js/3.66e2458f.chunk.js": "/marketplace/static/js/3.66e2458f.chunk.js",
+    "static/js/3.66e2458f.chunk.js.map": "/marketplace/static/js/3.66e2458f.chunk.js.map",
+    "index.html": "/marketplace/index.html",
+    "static/css/2.bb1f7776.chunk.css.map": "/marketplace/static/css/2.bb1f7776.chunk.css.map",
+    "static/css/main.8d861964.chunk.css.map": "/marketplace/static/css/main.8d861964.chunk.css.map",
+    "static/js/2.cc444c2b.chunk.js.LICENSE.txt": "/marketplace/static/js/2.cc444c2b.chunk.js.LICENSE.txt",
+    "static/media/kit1.54c5577d.png": "/marketplace/static/media/kit1.54c5577d.png",
+    "static/media/kit2.5fd2ffdf.png": "/marketplace/static/media/kit2.5fd2ffdf.png",
+    "static/media/kit3.3c3abf27.png": "/marketplace/static/media/kit3.3c3abf27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd1a2d6.js",
+    "static/css/2.bb1f7776.chunk.css",
+    "static/js/2.cc444c2b.chunk.js",
+    "static/css/main.8d861964.chunk.css",
+    "static/js/main.3ae81af2.chunk.js"
+  ]
+}
